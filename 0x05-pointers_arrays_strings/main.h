@@ -21,3 +21,7 @@ char *_strcpy(char *dest, char *src);
 int _putchar(char c);
 
 int main(void);
+
+#include <stdio.h>
+#include <unistd.h>
+
